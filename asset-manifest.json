@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dz-it-incubator/static/css/main.073c9b0a.css",
+    "main.js": "/dz-it-incubator/static/js/main.b395de39.js",
+    "static/js/787.177e23c2.chunk.js": "/dz-it-incubator/static/js/787.177e23c2.chunk.js",
+    "index.html": "/dz-it-incubator/index.html",
+    "main.073c9b0a.css.map": "/dz-it-incubator/static/css/main.073c9b0a.css.map",
+    "main.b395de39.js.map": "/dz-it-incubator/static/js/main.b395de39.js.map",
+    "787.177e23c2.chunk.js.map": "/dz-it-incubator/static/js/787.177e23c2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.b395de39.js"
+  ]
+}
