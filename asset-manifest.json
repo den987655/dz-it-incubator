@@ -1,16 +1,20 @@
 {
   "files": {
-    "main.css": "/dz-it-incubator/static/css/main.be17a714.css",
-    "main.js": "/dz-it-incubator/static/js/main.6269743a.js",
+    "main.css": "/dz-it-incubator/static/css/main.31c3dbcb.css",
+    "main.js": "/dz-it-incubator/static/js/main.831a99f0.js",
     "static/js/787.66cb4309.chunk.js": "/dz-it-incubator/static/js/787.66cb4309.chunk.js",
+    "static/media/avatar.png": "/dz-it-incubator/static/media/avatar.d947cb9d0d13765666b6.png",
+    "static/media/404.svg": "/dz-it-incubator/static/media/404.9ec31c0ba8d95b0480272e46af98c955.svg",
+    "static/media/closeOutline.svg": "/dz-it-incubator/static/media/closeOutline.b64ba402fac8a549bc2de97e9cf84a61.svg",
     "static/media/checked.svg": "/dz-it-incubator/static/media/checked.b75ca55e8759862b4083.svg",
     "index.html": "/dz-it-incubator/index.html",
-    "main.be17a714.css.map": "/dz-it-incubator/static/css/main.be17a714.css.map",
-    "main.6269743a.js.map": "/dz-it-incubator/static/js/main.6269743a.js.map",
+    "static/media/burger.svg": "/dz-it-incubator/static/media/burger.700e416f7bfe3697f96b36c778d25355.svg",
+    "main.31c3dbcb.css.map": "/dz-it-incubator/static/css/main.31c3dbcb.css.map",
+    "main.831a99f0.js.map": "/dz-it-incubator/static/js/main.831a99f0.js.map",
     "787.66cb4309.chunk.js.map": "/dz-it-incubator/static/js/787.66cb4309.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.be17a714.css",
-    "static/js/main.6269743a.js"
+    "static/css/main.31c3dbcb.css",
+    "static/js/main.831a99f0.js"
   ]
 }
