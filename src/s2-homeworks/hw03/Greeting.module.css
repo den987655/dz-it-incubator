@@ -5,6 +5,8 @@
 }
 
 .error {
+    color: red;
+    font-size: 12px;
 }
 
 .input {
@@ -14,6 +16,8 @@
 }
 
 .errorInput {
+    border: 1px solid red;
+    background-color: #ffe6e6;
 }
 
 .button {

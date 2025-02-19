@@ -2,6 +2,10 @@
 }
 
 .header {
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid #d9d9d9;
+    height: 60px;
 }
 
 .header h1 {

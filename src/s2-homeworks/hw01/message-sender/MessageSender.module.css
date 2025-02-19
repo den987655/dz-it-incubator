@@ -3,7 +3,6 @@
 }
 
 .textarea {
-    border: 1px solid red;
     border-radius: 20px;
     width: 976px;
     height: 40px;
@@ -26,8 +25,8 @@
 }
 
 .button:hover {
-
+    opacity: 0.9;
 }
 .button:active {
-
+    background: #0252a4;
 }

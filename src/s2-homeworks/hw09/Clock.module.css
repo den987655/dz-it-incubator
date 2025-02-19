@@ -2,13 +2,19 @@
 }
 
 .clock {
+    padding: 20px;
 }
 
 .watch {
+    font-size: 18px;
+
 }
 
 .watch strong {
+    font-weight: bold;
 }
 
 .more {
+    font-size: 14px;
+    color: grey;
 }
