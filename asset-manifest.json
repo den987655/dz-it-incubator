@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/dz-it-incubator/static/css/main.1b90b1bc.css",
-    "main.js": "/dz-it-incubator/static/js/main.98820dbf.js",
+    "main.css": "/dz-it-incubator/static/css/main.97e8c7ae.css",
+    "main.js": "/dz-it-incubator/static/js/main.42c1538a.js",
     "static/js/787.66cb4309.chunk.js": "/dz-it-incubator/static/js/787.66cb4309.chunk.js",
     "static/media/avatar.png": "/dz-it-incubator/static/media/avatar.d947cb9d0d13765666b6.png",
     "static/media/404.svg": "/dz-it-incubator/static/media/404.9ec31c0ba8d95b0480272e46af98c955.svg",
@@ -10,12 +10,12 @@
     "static/media/checked.svg": "/dz-it-incubator/static/media/checked.b75ca55e8759862b4083.svg",
     "index.html": "/dz-it-incubator/index.html",
     "static/media/burger.svg": "/dz-it-incubator/static/media/burger.700e416f7bfe3697f96b36c778d25355.svg",
-    "main.1b90b1bc.css.map": "/dz-it-incubator/static/css/main.1b90b1bc.css.map",
-    "main.98820dbf.js.map": "/dz-it-incubator/static/js/main.98820dbf.js.map",
+    "main.97e8c7ae.css.map": "/dz-it-incubator/static/css/main.97e8c7ae.css.map",
+    "main.42c1538a.js.map": "/dz-it-incubator/static/js/main.42c1538a.js.map",
     "787.66cb4309.chunk.js.map": "/dz-it-incubator/static/js/787.66cb4309.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1b90b1bc.css",
-    "static/js/main.98820dbf.js"
+    "static/css/main.97e8c7ae.css",
+    "static/js/main.42c1538a.js"
   ]
 }
