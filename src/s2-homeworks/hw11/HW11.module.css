@@ -1,8 +1,17 @@
 .container {
+    border: 1px solid red;
+
+
+
 }
 
 .wrapper {
+    display: flex;
+    align-items: center;
 }
 
+
 .number {
+
+    font-weight: bold;
 }

@@ -1,3 +1,19 @@
 .loader {
     /*свг и/или анимация*/
+    width: 48px; /* Размер лоадера */
+    height: 48px;
+    border: 5px solid #ccc; /* Цвет границы */
+    border-bottom-color: #007bff; /* Цвет нижней границы (акцентный цвет) */
+    border-radius: 50%; /* Делаем круг */
+    display: inline-block;
+    animation: spin 1s linear infinite; /* Анимация вращения */
+}
+
+@keyframes spin {
+    0% {
+        transform: rotate(0deg); /* Начальное положение */
+    }
+    100% {
+        transform: rotate(360deg); /* Конечное положение (полный круг) */
+    }
 }
